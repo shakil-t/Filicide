@@ -1,2 +1,2 @@
 # Filicide
-Detecting and preventing Filicide by machine learning algorithms
+Detecting and preventing Filicide using machine learning algorithms
